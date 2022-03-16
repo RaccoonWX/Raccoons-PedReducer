@@ -1,0 +1,1 @@
+print("TheRaccoon\'s Ped Reducer loaded, created by TheRaccoon (https://discord.gg/7S2y2hrXQj).")
