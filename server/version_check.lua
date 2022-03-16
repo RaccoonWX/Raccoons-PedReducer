@@ -12,7 +12,7 @@ Citizen.CreateThread(function()
 	end
 
 	function VersionCheckHTTPRequest()
-		PerformHttpRequest('https://raw.githubusercontent.com/PeEcEeChIP/version-history/version/raccoons-blips.json', VersionCheck, 'GET')
+		PerformHttpRequest('https://github.com/PeEcEeChIP/version-history/blob/version/raccoons-pedreducer.json', VersionCheck, 'GET')
 	end
 
 	function VersionCheck(err, response, headers)
